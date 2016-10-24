@@ -1,0 +1,1 @@
+alert("I do like this concept.");
